@@ -1,4 +1,4 @@
-import { Section, SectionTitle, SectionText } from '../../styles/globals/components';
+import { Section, SectionTitle, SectionText } from '../../../src/styles/globals/components';
 import { TechList, Tech, TechContainer, TechTitle, TechParagraph } from './TechnologyStyles';
 import { DiReact, DiPython } from 'react-icons/di';
 import { SiArduino } from 'react-icons/si';

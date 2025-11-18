@@ -1,4 +1,4 @@
-import { Section, SectionTitle, SectionText } from '../../styles/globals/components';
+import { Section, SectionTitle, SectionText } from '../../../src/styles/globals/components';
 import { GridContainer, ProjectCard, Img, TitleContent, Hr, CardInfo, TagList, Tag } from './ProjectsStyles';
 import { projects } from '../../constants';
 

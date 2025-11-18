@@ -1,4 +1,4 @@
-import { Section, SectionTitle, SectionText, Span } from "../../styles/globals/components.jsx";
+import { Section, SectionTitle, SectionText, Span } from "../../../src/styles/globals/components.jsx";
 
 function About() {
 
