@@ -1,4 +1,5 @@
 import Theme from './styles/themes/theme.jsx';
+import BgGrid from './components/BgGrid.jsx';
 // import { Section } from './styles/globals/components.jsx';
 // import Header from '../src_old/components/Header/Header.jsx';
 // import About from '../src_old/components/About/About.jsx';
@@ -8,14 +9,8 @@ import Theme from './styles/themes/theme.jsx';
 function Layout(){
     return (
         <Theme>
-            {/* <Header />
-            <Section $view $nopadding>
-                <Section $nopadding>
-                    <About />
-                    <Technologies />
-                    <Projects />
-                </Section>
-            </Section> */}
+            <BgGrid>
+            </BgGrid>
         </Theme>
     );
 }
